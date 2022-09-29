@@ -1,8 +1,8 @@
 # is it a dog???
 
-This project is training a Deep Neural Network for item/animal detection. 
+For this project, I trained a Deep Neural Network for item/animal detection. 
 
-The aim is to be able to have the model determine the probability that there is a dog label: 0 means a dog is not there, 1 means there is certainly a dog in there.
+The aim is for the model to determine the probability that there is a dog label: 0 means a dog is not there, 1 means there is certainly a dog in there.
 
 
 ## What I have done:
@@ -24,7 +24,7 @@ The aim is to be able to have the model determine the probability that there is 
 
 5. Written a report about my model. This is in the `report.ipynb` file. The report includes the following:
     * Introduction.
-        * Which label you picked for item/animal detection.
+        * Which label I picked for item/animal detection.
         * Why I picked the label.
     * Modelling Process.
         * What the shape of my model is.
