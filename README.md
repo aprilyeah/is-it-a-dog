@@ -43,10 +43,6 @@ The aim is to be able to have the model determine the probability that there is 
 
 7. Made a python application/function that can evaluate my model when given any PNG and/or JPEG image. This application is able to resize images to 32x32 before having the model evaluate said image.
 
-4. [ ] Make your front-end and/or back-end use the model in some way, an example would be:
-    * [ ] Have the front-end be a platform to send image data to the model to determine probability.
-    * [ ] Have the back-end store results of mentioned image with probability for caching.
-
 
 # Required Software:
 * [Python 3.9+](https://www.python.org/downloads/)
