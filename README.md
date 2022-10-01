@@ -2,7 +2,7 @@
 
 For this project, I trained a Deep Neural Network for item/animal detection which is in the `make-model.ipynb` file. 
 
-The aim is for the model to determine the probability that there is a dog label: 0 means a dog is not there, 1 means there is certainly a dog in there.
+The aim for the model is to determine the probability that there is a dog label: 0 means a dog is not there, 1 means there is certainly a dog in there.
 
 
 ## What I have done:
